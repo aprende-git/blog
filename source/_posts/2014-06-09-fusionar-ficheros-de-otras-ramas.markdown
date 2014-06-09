@@ -27,5 +27,5 @@ La tercera línea te fusiona el fichero en la rama donde lo has
 modificado (`feature-1`) por
 equivocación con el de la rama donde tenías que haberlo
 modificado (`dev`, que es en la que estás). Aunque no haya sido por equivocación, sino a caso
-hecho. Puedes usarlo además con el número de ficheros qeu te dé la
+hecho. Puedes usarlo además con el número de ficheros que te dé la
 gana. 
