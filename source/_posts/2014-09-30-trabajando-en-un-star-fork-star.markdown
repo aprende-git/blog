@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trabajando en un *fork*"
+title: "Trabajando en un fork"
 date: 2014-09-30 09:32:42 +0200
 comments: true
 categories: trucos, tips, ramas, branch, fork, pull request, branches
